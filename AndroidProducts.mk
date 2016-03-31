@@ -1,0 +1,1 @@
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_h830.mk
